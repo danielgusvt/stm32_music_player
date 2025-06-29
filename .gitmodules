@@ -1,0 +1,3 @@
+[submodule "Drivers/lvgl"]
+	path = Drivers/lvgl
+	url = https://github.com/lvgl/lvgl
